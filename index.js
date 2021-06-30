@@ -13,9 +13,9 @@ window.onload = () => {
         { name: 'plane1', url: 'assets/plane1.png' },
         { name: 'plane2', url: 'assets/plane2.png' },
         { name: 'plane3', url: 'assets/plane3.png' },
-        { name: 'enemy1', url: 'assets/enemy1.png' },
-        { name: 'enemy2', url: 'assets/enemy2.png' },
-        { name: 'enemy3', url: 'assets/enemy3.png' },
+        { name: 'enemy1', url: 'assets/Enemy1.png' },
+        { name: 'enemy2', url: 'assets/Enemy2.png' },
+        { name: 'enemy3', url: 'assets/Enemy3.png' },
         { name: 'bullet', url: 'assets/bullet.png' },
         { name: 'background', url: 'assets/BG.png' },
 
